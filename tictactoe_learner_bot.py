@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 import configparser
-from game import Game
+from tictactoe import Game
 from random import choice
 import time
 
